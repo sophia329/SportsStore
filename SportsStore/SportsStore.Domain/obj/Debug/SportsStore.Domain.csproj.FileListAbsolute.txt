@@ -18,8 +18,8 @@ C:\Users\rajsopv\source\repos\SportsStore\SportsStore.Domain\bin\Debug\System.We
 C:\Users\rajsopv\source\repos\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.xml
 C:\Users\rajsopv\source\repos\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
 C:\Users\rajsopv\source\repos\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\rajsopv\source\repos\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csproj.AssemblyReference.cache
 C:\Users\rajsopv\source\repos\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csproj.CoreCompileInputs.cache
 C:\Users\rajsopv\source\repos\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csproj.CopyComplete
 C:\Users\rajsopv\source\repos\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
 C:\Users\rajsopv\source\repos\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
-C:\Users\rajsopv\source\repos\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csproj.AssemblyReference.cache

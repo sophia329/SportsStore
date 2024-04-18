@@ -13,7 +13,7 @@ namespace SportsStore.Domain.Entities
     }
 
     //CART OPERATIONS
-    class Cart
+    public class Cart
     {
         // Create a List for Cart
         private List<CartLine> lineCollection = new List<CartLine>();
